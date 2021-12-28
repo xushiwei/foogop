@@ -1,5 +1,7 @@
 package foo
 
+type T int
+
 const C = 1
 
 var V = 3.14
