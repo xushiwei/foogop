@@ -1,4 +1,6 @@
 package foo
 
+const C = 1
+
 func F() {
 }
