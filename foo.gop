@@ -2,5 +2,7 @@ package foo
 
 const C = 1
 
+var V = 3.14
+
 func F() {
 }
